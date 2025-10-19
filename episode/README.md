@@ -1,0 +1,1 @@
+# This directory Contains the Graphql Request and response for the Epistles.
