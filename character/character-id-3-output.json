@@ -2,5 +2,7 @@
     "id": "3",
     "name": "Summer Smith",
     "status": "Alive",
-    "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+    "species": "Human",
+    "type": "",
+    "gender": "Female"
 }
